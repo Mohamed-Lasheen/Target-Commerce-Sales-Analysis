@@ -1,5 +1,3 @@
-# Brazilian-Target-Commerce-Sales-Analysis
-
 # Project Background
 Target is a global recognized brand and a leading retailer, known for delivering superior value, inspiration, innovation, and an unbeatable shopping experience.
 
@@ -8,100 +6,89 @@ This data is focused on Target's operations in Brazil with over 100,000 orders b
 The primary objective of this analysis is to determine actionable insights that can help Target Brazil boost its sales performance, enhance customer targeting, and reduce delay in order delivery. By using data-driven insights, Target can make decisions to strengthen its market position in Brazil's competitive retail market.
 
 # Executive Summary
-This report analyzes Target's sales data in Brazil to identify popular products, customer segmentation and areas for improvement. The analysis reveals the following highlights:
+This report analyzes Target's sales data in Brazil to establish best-selling items, customer segmentation and improvement areas. The analysis gives the following highlights:
 
-Sales Performance: Total sales have shown growth, with the last year surpassing the previous one by $1 million.
+Sales Performance: Total sales have posted growth, with the last year outperforming the last one by $1 million.
 
-Customer Segmentation: A lot of the customers don't buy very frequently, as the frequent buyers only make up nearly 10% of the total customers.
+Customer Segmentation: Most of the customers do not buy very frequently, as the frequent buyers make up nearly 10% of the total customers.
 
-Regional Performance: When it comes to regional performance, Sao Paulo takes the lead with having the highest numbers of orders of over 15K.
+Regional Performance: Southeast region of Brazil generate more sales with São Paulo leading, and the remaining regions poor in comparison to it indicating potential for expansion and focused marketing.
 
-Product Performance: The products that need to be targeted are Household items considering that 4 in the top 5 categories which are related to Household items are Bed bath table, Health beauty, Furniture decoration and computer accessories.
+Product Performance: Some product categories generate most of the revenue, while others underperform and may require re-evaluation. 
+
+Order Delivery Waiting Time: It has been found that on average it can take up 12 days for the order to be delivered from the moment of purchase, which will require some strategies in order to reduce the number of days taken to deliver the orders.
+
+![image](https://github.com/user-attachments/assets/d6b63c01-23ce-42f3-b493-ad3cb565b333)
 
 # Insights Deep-Dive
-1. Sales Performance Over Time
-Total sales have grown by X% over the analyzed period, with consistent month-on-month growth.
+## 1. Sales Performance Over Time
+There has been an overall growth in sales by 14% from the years 2017 to 2018.
+Sales are seasonal, with increased spikes during the Christmas and Black Friday season.
+Most orders are made on weekdays between time intervals of 12:00 AM to 12:00 PM, meaning that there is a need for certain weekday (afternoon or evening) reminders to prompt the customers into making purchases.
+The average order value is $161 and the average products ordered in the same order are 1 product, indicating there could be promotions to convince the customers to buy more products in the same order.
 
-Sales spikes are observed during key holiday seasons (e.g., Christmas, Black Friday), indicating the importance of seasonal promotions.
+![image](https://github.com/user-attachments/assets/5e61071a-c356-4848-a03c-3897c4c1bd42)
+![image](https://github.com/user-attachments/assets/a10766ba-5349-4be8-9710-2c339882d3d4)
 
-Weekends account for X% of total weekly sales, suggesting the need for targeted weekend campaigns.
+## 2. Customer Segmentation
+Customer retention rate is 10% indicating that efforts must be focused on recommendation algorithms to make the same customers buy more often.The most successful and recent purchasers contribute 20% of the total number of orders made, while the most frequent consumers are as much as 10%, indicating the need to target our highest customers in order to provide additional income.
 
-2. Customer Segmentation
-High-Value Customers: The top 10% of customers contribute X% of total revenue. These customers are primarily aged 25-40 and reside in urban areas.
+![image](https://github.com/user-attachments/assets/a4be0c16-6c7b-4fee-bd03-c4dd55a3acbf)
 
-Demographics: Younger customers (18-24) tend to purchase lower-priced items, while older customers (40+) show a preference for premium products.
+## 3. Regional Analysis
+The Southeast area such as São Paulo, Rio de Janeiro, Belo Horizonte and Brasilia generate the highest sales as buyers with $3.5M of the total revenue and São Paulo, Ibitinga, Currtiba generating the highest sales as sellers with $3.8M of total revenue.
 
-Loyalty: Repeat customers account for X% of sales, highlighting the importance of loyalty programs.
+The most frequented routes from the seller to the buyer are São Paulo to São Paulo, São Paulo to Rio de Janeiro and Ibitinga to São Paulo.
 
-3. Regional Analysis
-The Southeast region (e.g., São Paulo, Rio de Janeiro) generates the highest sales, contributing X% of total revenue.
+![image](https://github.com/user-attachments/assets/c7fc5401-fb65-47bb-bb0b-1ed025e6b55c)
 
-The Northeast region shows potential for growth, with increasing sales trends but lower overall revenue compared to the Southeast.
+## 4. Product Category Performance
+Top-Performing Categories: Cosmetics, House Furniture, and Electronic products are the most sought after in the Southeast region, with Cosmetics by a wide margin of approximately 17k products sold.
 
-4. Product Category Performance
-Top-Performing Categories: Electronics and home goods account for X% of total sales.
+Under-Performing Categories: Insurance & Services, Hygiene Products, and Cinematography products are the least in demand overall, where Insurance & Services only sold 2 products in total, indicating people are not that keen on purchasing insurance.
 
-Underperforming Categories: Certain categories, such as apparel, show declining sales and may require reevaluation of pricing or marketing strategies.
+![image](https://github.com/user-attachments/assets/2e89aa45-fee5-43a2-bc42-d4b013e79852)
 
-5. Promotional Impact
-Discounts and promotions drive a X% increase in sales during promotional periods.
+## 5. Order Shipment Performance
+96% is the on-time delivery rate, which indicates the order delivery wait time expectations are being highly met.
 
-However, profit margins during these periods are lower, indicating a need to balance volume and profitability.
+It has been documented during the analysis that on average it would take about 12 days for the order to arrive from the date of purchase, highlighting that there is a scope for improvement so that the time it takes for the order to arrive could be reduced.
+
+![image](https://github.com/user-attachments/assets/09155a5b-e107-4c5f-95da-a86c485387dd)
 
 # Recommendations
-Enhance Seasonal Campaigns:
 
-Invest in targeted marketing campaigns during peak seasons (e.g., Black Friday, Christmas) to maximize sales.
+## Period Targeting
+Invest in targeted marketing campaigns during busy seasons such as Black Friday and Christmas to maximize sales.
 
-Introduce exclusive deals for high-value customers to boost loyalty.
+Targeted product recommendation alerts during weekdays in the afternoon and evening hours to encourage customers to add items to their carts or wish lists.
 
-Focus on High-Value Customers:
+Insert promotions or discounts that encourage purchasing a few items for an order.
 
-Develop personalized offers and loyalty programs to retain high-value customers.
+## Target High-Value Customers
+Develop tailored offers and loyalty programs to retain high-value customers.
 
-Use data analytics to identify and target similar customer profiles for acquisition.
+Improve the recommendation engine to make the consumers purchase more frequently.The majority of the orders are made via credit cards, which would be beneficial for the company to provide offers for credit card customers to increase the frequency of the payment made via credit cards.
 
-Optimize Regional Strategies:
+## Optimize Regional Strategies
 
-Allocate more resources to high-performing regions (e.g., Southeast) to maintain growth.
+Invest further in the East region to maintain growth.
 
-Explore opportunities for expansion in underpenetrated regions (e.g., Northeast) with tailored marketing strategies.
+Explore opportunities in other regions with tailor-made marketing strategies to create growth there as well.
 
-Revitalize Underperforming Categories:
+## Revitalize Underperforming Categories
+Conduct market study to recognize declining sales in markets like hygiene items.
 
-Conduct market research to understand declining sales in categories like apparel.
+We could consider price fluctuation or the bundling options to enhance the performance.
 
-Consider rebranding, pricing adjustments, or bundling strategies to boost performance.
+## Reduce Waiting time
+We can reduce the days taken to deliver the order by determining the areas from where orders are placed most frequently, to reduce the number of days taken to deliver the order, hire additional drivers in an attempt to allocate some of them to high order volume areas and optimal geographical routes that do not go through traffic or routes subject to closure due to accidents.
 
-Balance Promotions and Profitability:
-
-Analyze the impact of discounts on profit margins and adjust promotional strategies accordingly.
-
-Introduce tiered discounts to encourage higher spending without significantly reducing margins.
-
-Leverage Data for Inventory Management:
-
-Use sales trends to optimize inventory levels, reducing stockouts and overstock situations.
-
-Implement predictive analytics to forecast demand for high-performing products.
+We can also try to push the average days to approve an order to zero, by fixing the root cause of the delays of getting them approved and put measures in place to reduce them.
 
 # Assumptions and Caveats
-Data Quality:
+The analysis keeps in mind that this is based on the available time frame from 2016-2018 so the trends have varied over time. 
 
-The analysis assumes the dataset is complete and accurate. Missing or inconsistent data could impact the validity of insights.
+The data isn't complete as the data for the year 2016 is almost non-existent and for the year 2018 only the data up to the 9th month is captured. 
 
-Time Period:
-
-The analysis is based on the available time frame in the dataset. Trends may vary over longer or more recent periods.
-
-External Factors:
-
-External factors such as economic conditions, competitor actions, or changes in consumer behavior are not accounted for in this analysis.
-
-Geographic Scope:
-
-The dataset focuses on Target stores in Brazil. Insights may not be applicable to other regions or markets.
-
-Customer Behavior:
-
-Customer preferences and behaviors are assumed to be consistent with the data provided. Changes in demographics or market trends could alter these patterns.
+This analysis is focused on the Brazilian target, so these insights will differ from a region to another depending on the behavior of the target customers.
