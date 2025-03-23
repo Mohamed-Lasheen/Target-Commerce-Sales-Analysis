@@ -41,7 +41,7 @@ The most successful and recent purchasers contribute 20% of the total number of 
 ![image](https://github.com/user-attachments/assets/a4be0c16-6c7b-4fee-bd03-c4dd55a3acbf)
 
 ## 3. Regional Analysis
-The Southeast area such as São Paulo, Rio de Janeiro, Belo Horizonte and Brasilia generate the highest sales as buyers with $3.5M of the total revenue and São Paulo, Ibitinga, Currtiba generating the highest sales as sellers with $3.8M of total revenue.
+The Southeast area such as São Paulo, Rio de Janeiro, Belo Horizonte and Brasília  generate the highest sales as buyers with $3.5M of the total revenue and São Paulo, Ibitinga, Currtiba generating the highest sales as sellers with $3.8M of total revenue.
 
 The most frequented routes from the seller to the buyer are São Paulo to São Paulo, São Paulo to Rio de Janeiro and Ibitinga to São Paulo.
 
