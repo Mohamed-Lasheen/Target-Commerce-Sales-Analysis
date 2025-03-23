@@ -23,8 +23,11 @@ Order Delivery Waiting Time: It has been found that on average it can take up 12
 # Insights Deep-Dive
 ## 1. Sales Performance Over Time
 There has been an overall growth in sales by 14% from the years 2017 to 2018.
+
 Sales are seasonal, with increased spikes during the Christmas and Black Friday season.
+
 Most orders are made on weekdays between time intervals of 12:00 AM to 12:00 PM, meaning that there is a need for certain weekday (afternoon or evening) reminders to prompt the customers into making purchases.
+
 The average order value is $161 and the average products ordered in the same order are 1 product, indicating there could be promotions to convince the customers to buy more products in the same order.
 
 ![image](https://github.com/user-attachments/assets/5e61071a-c356-4848-a03c-3897c4c1bd42)
