@@ -12,7 +12,7 @@ Sales Performance: Total sales have posted growth, with the last year outperform
 
 Customer Segmentation: Most of the customers do not buy very frequently, as the frequent buyers make up nearly 10% of the total customers.
 
-Regional Performance: Southeast region of Brazil generate more sales with São Paulo leading, and the remaining regions poor in comparison to it indicating potential for expansion and focused marketing.
+Regional Performance: Southeast region of Brazil generate more sales with São Paulo leading, and the remaining regions are poor in comparison to it indicating potential for expansion and focused marketing.
 
 Product Performance: Some product categories generate most of the revenue, while others underperform and may require re-evaluation. 
 
@@ -34,7 +34,9 @@ The average order value is $161 and the average products ordered in the same ord
 ![image](https://github.com/user-attachments/assets/a10766ba-5349-4be8-9710-2c339882d3d4)
 
 ## 2. Customer Segmentation
-Customer retention rate is 10% indicating that efforts must be focused on recommendation algorithms to make the same customers buy more often.The most successful and recent purchasers contribute 20% of the total number of orders made, while the most frequent consumers are as much as 10%, indicating the need to target our highest customers in order to provide additional income.
+Customer retention rate is 10% indicating that efforts must be focused on recommendation algorithms to make the same customers buy more often.
+
+The most successful and recent purchasers contribute 20% of the total number of orders made, while the most frequent consumers are as much as 10%, indicating the need to target our highest customers in order to provide additional income.
 
 ![image](https://github.com/user-attachments/assets/a4be0c16-6c7b-4fee-bd03-c4dd55a3acbf)
 
