@@ -30,7 +30,7 @@ Most orders are made on weekdays between time intervals of 12:00 AM to 12:00 PM,
 
 The average order value is $161 and the average products ordered in the same order are 1 product, indicating there could be promotions to convince the customers to buy more products in the same order.
 
-![image](https://github.com/user-attachments/assets/5e61071a-c356-4848-a03c-3897c4c1bd42)
+![image](https://github.com/user-attachments/assets/8d32b8d3-9219-4779-9359-03950df8b604)
 ![image](https://github.com/user-attachments/assets/a10766ba-5349-4be8-9710-2c339882d3d4)
 
 ## 2. Customer Segmentation
