@@ -2,7 +2,7 @@
  #### 1. [Project Background](#project-background)
  #### 2. [Executive Summary](#executive-summary)
  #### 3. [Insights Deep-Dive](#insights-deep-dive)
- * [Sales Performance Over Time](#sales-performance-over-time)
+ * [Sales Performance Over Time](##-1.-sales-performance-over-time)
  #### 4. [Recommendations](#recommendations)
  #### 5. [Assumptions and Caveats](#assumptions-and-caveats)
 # Project Background
