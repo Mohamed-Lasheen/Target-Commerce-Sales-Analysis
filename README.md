@@ -1,3 +1,9 @@
+# Table of Contents
+ 1. [Project Background](#heading-project-background)
+ 2. [Executive Summary](#heading-executive-summary)
+ 3. [Insights Deep-Dive](#heading-insights-deep-dive)
+ 4. [Recommendations](#heading-recommendations)
+ 5. [Assumptions and Caveats](#heading-assumptions-and-caveats)
 # Project Background
 Target is a global recognized brand and a leading retailer, known for delivering superior value, inspiration, innovation, and an unbeatable shopping experience.
 
