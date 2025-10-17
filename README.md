@@ -3,7 +3,16 @@
  #### 2. [Executive Summary](#executive-summary)
  #### 3. [Insights Deep-Dive](#insights-deep-dive)
  * [Sales Performance Over Time](#sales-performance-over-time)
+ * [Customer Segmentation](#customer-segmentation)
+ * [Regional Analysis](#regional-analysis)
+ * [Product Category Performance](#product-category-performance)
+ * [Order Shipment Performance](#order-shipment-performance)
  #### 4. [Recommendations](#recommendations)
+ * [Period Targeting](#period-targeting)
+ * [Target High-Value Customers](#target-high-value-customers)
+ * [Optimize Regional Strategies](#optimize-regional-strategies)
+ * [Revitalize Underperforming Categories](#revitalize-underperforming-categories)
+ * [Reduce Waiting Time](#reduce-waiting-time)
  #### 5. [Assumptions and Caveats](#assumptions-and-caveats)
 # Project Background
 Target is a global recognized brand and a leading retailer, known for delivering superior value, inspiration, innovation, and an unbeatable shopping experience.
