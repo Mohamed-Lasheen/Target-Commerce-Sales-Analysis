@@ -2,7 +2,7 @@
  #### 1. [Project Background](#project-background)
  #### 2. [Executive Summary](#executive-summary)
  #### 3. [Insights Deep-Dive](#insights-deep-dive)
- * [Sales Performance Over Time](##-1.-sales-performance-over-time)
+ * [Sales Performance Over Time](##sales-performance-over-time)
  #### 4. [Recommendations](#recommendations)
  #### 5. [Assumptions and Caveats](#assumptions-and-caveats)
 # Project Background
@@ -28,7 +28,7 @@ Order Delivery Waiting Time: It has been found that on average it can take up 12
 ![image](https://github.com/user-attachments/assets/d6b63c01-23ce-42f3-b493-ad3cb565b333)
 
 # Insights Deep-Dive
-## 1. Sales Performance Over Time
+## Sales Performance Over Time
 There has been an overall growth in sales by 14% from the years 2017 to 2018.
 
 Sales are seasonal, with increased spikes during the Christmas and Black Friday season.
@@ -40,28 +40,28 @@ The average order value is $161 and the average products ordered in the same ord
 ![image](https://github.com/user-attachments/assets/8d32b8d3-9219-4779-9359-03950df8b604)
 ![image](https://github.com/user-attachments/assets/a10766ba-5349-4be8-9710-2c339882d3d4)
 
-## 2. Customer Segmentation
+## Customer Segmentation
 Customer retention rate is 10% indicating that efforts must be focused on recommendation algorithms to make the same customers buy more often.
 
 The most successful and recent purchasers contribute 20% of the total number of orders made, while the most frequent consumers are as much as 10%, indicating the need to target our highest customers in order to provide additional income.
 
 ![image](https://github.com/user-attachments/assets/a4be0c16-6c7b-4fee-bd03-c4dd55a3acbf)
 
-## 3. Regional Analysis
+## Regional Analysis
 The Southeast area such as São Paulo, Rio de Janeiro, Belo Horizonte and Brasília  generate the highest sales as buyers with $3.5M of the total revenue and São Paulo, Ibitinga, Currtiba generating the highest sales as sellers with $3.8M of total revenue.
 
 The most frequented routes from the seller to the buyer are São Paulo to São Paulo, São Paulo to Rio de Janeiro and Ibitinga to São Paulo.
 
 ![image](https://github.com/user-attachments/assets/c7fc5401-fb65-47bb-bb0b-1ed025e6b55c)
 
-## 4. Product Category Performance
+## Product Category Performance
 Top-Performing Categories: Cosmetics, House Furniture, and Electronic products are the most sought after in the Southeast region, with Cosmetics by a wide margin of approximately 17k products sold.
 
 Under-Performing Categories: Insurance & Services, Hygiene Products, and Cinematography products are the least in demand overall, where Insurance & Services only sold 2 products in total, indicating people are not that keen on purchasing insurance.
 
 ![image](https://github.com/user-attachments/assets/2e89aa45-fee5-43a2-bc42-d4b013e79852)
 
-## 5. Order Shipment Performance
+## Order Shipment Performance
 96% is the on-time delivery rate, which indicates the order delivery wait time expectations are being highly met.
 
 It has been documented during the analysis that on average it would take about 12 days for the order to arrive from the date of purchase, highlighting that there is a scope for improvement so that the time it takes for the order to arrive could be reduced.
